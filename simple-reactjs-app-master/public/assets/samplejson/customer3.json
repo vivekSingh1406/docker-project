@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"name": "zecData",
+	"email": "data@test.com",
+	"phone": "123412345",
+	"city": "indore-dewas,naka",
+	"state": "madhya pradesh",
+	"country": "India",
+	"organization": "Company",
+	"jobProfile": "private limited",
+	"additionalInfo": "Buys Lots of Products in general"
+}

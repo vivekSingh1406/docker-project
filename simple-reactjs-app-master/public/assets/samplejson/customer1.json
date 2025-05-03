@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "vivek singh bais",
+	"email": "vivek@test.com",
+	"phone": "123456789",
+	"city": "indore",
+	"state": "madhya pradesh",
+	"country": "India",
+	"organization": "Company 1",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+}

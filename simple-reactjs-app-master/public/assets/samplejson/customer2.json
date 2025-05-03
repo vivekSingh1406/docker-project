@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "ravi singh bais",
+	"email": "ravi@test.com",
+	"phone": "987654321",
+	"city": "shahdol",
+	"state": "madhya pradesh",
+	"country": "India",
+	"organization": "Company 2",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Products Rarely"
+}

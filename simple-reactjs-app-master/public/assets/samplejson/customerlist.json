@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"name": "vivek singh",
+	"email": "vivek@test.com",
+	"phone": "123456789"
+}, {
+	"id": 2,
+	"name": "ravi singh",
+	"email": "ravi@test.com",
+	"phone": "987654321"
+}, {
+	"id": 3,
+	"name": "zecData",
+	"email": "zecdata@test.com",
+	"phone": "123412345"
+}]
