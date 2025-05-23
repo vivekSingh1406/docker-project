@@ -8,18 +8,16 @@ you might want to see all the images
 docker images 
 ```  
 
+You can delete all Docker images
 ```
 docker rmi $(docker images -q)
 ```  
-
-You can delete all Docker images
-```
-docker images 
-```  
+ 
 If some images are being used by running containers, you may need to stop and remove those containers firs
 ```
 docker rmi -f $(docker images -q)
 ```  
+
 Lists running containers.
 ```
 docker ps 
